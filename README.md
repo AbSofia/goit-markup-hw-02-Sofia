@@ -1,2 +1,3 @@
 # goit-markup-hw-02-Sofia
-Selectores y colores 
+
+Selectores y Color
