@@ -1,0 +1,120 @@
+/* Tarea2*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+:root {
+    --brand-color:#2196F3;
+}
+
+button{
+    cursor: pointer;
+}
+
+nav span{
+    color:var(--brand-color);
+    font-size: 26px;
+    font-weight: bold;
+    
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    font-weight:500;
+    font-size: 14px;
+}
+
+nav a:hover{
+    color:var(--brand-color) ;
+}
+
+.menu{
+    color: black;
+    background-color:#F5F4FA;
+}
+
+.menu:hover{
+    color: white;
+    background-color: var(--brand-color);
+}
+
+footer{
+    background-color: #2F303A;
+    color: white;
+}
+
+footer span{
+    color:var(--brand-color);
+    font-weight:  bold;
+    font-size: 26;
+} 
+
+
+footer a{
+    text-decoration: none;
+    color: #757575;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+footer a:hover{
+    color: var(--brand-color);
+}
+
+body{
+    font-family: "Roboto","sans serif";
+    color:black;
+    line-height: 1.5;
+}
+
+.header1{
+    color: white;
+    background-color: #2F303A;
+}
+header button {
+    color: white;
+    background-color:var(--brand-color); 
+
+}
+div h6{
+    color:black;
+    font-weight: bold;
+    font-size: 14px;
+    text-shadow: 0px 2px 6px #757575;
+}
+
+div h4{
+    font-weight: bold;
+    font-size: 36px;
+    color:#212121;
+    text-align: center;
+}
+
+section h4{
+    font-weight: bold;
+    font-size: 36px;
+    color: #212121;
+    text-align: center;
+}
+
+article p{
+    color:#757575;
+    font-size: 14px;
+    text-shadow: 0px 1px 8px #757575;
+}
+
+.nuestroEquipo1{
+    color: #212121;
+    font-weight: medium;
+    font-size: 16px;
+}
+
+.nuestroEquipo2 {
+    color: #757575;
+    font-size: 16px;
+}
+
+.nombreProyecto{
+    color: #212121;
+    font-weight: bold;
+    font-size: 18px;
+}
